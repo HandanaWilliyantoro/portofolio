@@ -1,0 +1,32 @@
+{
+  "name": "portofolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/server": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "autoprefixer": "10.4.15",
+    "framer-motion": "^10.16.3",
+    "lottie-react": "^2.4.0",
+    "next": "13.4.19",
+    "postcss": "8.4.29",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "tailwindcss": "3.3.3"
+  },
+  "devDependencies": {
+    "@emotion/babel-plugin": "^11.11.0",
+    "babel-plugin-macros": "^3.1.0",
+    "babel-plugin-twin": "^1.1.0",
+    "twin.macro": "^3.4.0"
+  }
+}
